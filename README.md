@@ -1,4 +1,4 @@
-[![TobyCroft](https://github-readme-stats.vercel.app/api?username=tobycroft&theme=dark&include_all_commits=true)](#)
+[![TobyCroft](https://github-readme-stats.vercel.app/api?username=tobycroft&theme=dark&include_all_commits=false&rank_icon=github)](#)
 
 - 👋 Hi, I’m @tobycroft
 - 👀 I’m interested in ...
