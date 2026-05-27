@@ -4,13 +4,12 @@
 
 <div align="center"> 
   <a href="https://github.com/tobycroft"> 
-    <!-- 使用国外高可用开源代理厂商 AllOrigins 直连 Vercel -->
-    <img src="https://api.allorigins.win/raw?url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dtobycroft%26theme%3Ddark%26show_icons%3Dtrue%26hide_border%3Dtrue%26count_private%3Dtrue" alt="TobyCroft's GitHub Stats" />
+    <img src="https://images.weserv.nl/?url=github-readme-stats.vercel.app/api?username=tobycroft&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="TobyCroft's GitHub Stats" />
   </a> 
 </div>
 
 <div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tobycroft&theme=dark&hide_border=true" alt="TobyCroft's GitHub Streak" /> 
+  <img src="https://images.weserv.nl/?url=github-readme-streak-stats.herokuapp.com/?user=tobycroft&theme=dark&hide_border=true" alt="TobyCroft's GitHub Streak" /> 
 </div>
 
 ---
