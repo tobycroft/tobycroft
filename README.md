@@ -4,12 +4,12 @@
 
 <div align="center"> 
   <a href="https://github.com/tobycroft"> 
-    <img src="https://github-readme-stats.pan93.vip/api?username=tobycroft&theme=dark&include_all_commits=false&rank_icon=github&show_icons=true&hide_border=true&count_private=true" alt="TobyCroft's GitHub Stats" /> 
+    <img src="https://images.weserv.nl/?url=github-readme-stats.vercel.app/api?username=tobycroft&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="TobyCroft's GitHub Stats" />
   </a> 
 </div>
 
 <div align="center"> 
-  <img src="https://github-readme-streak-stats.pan93.vip/?user=tobycroft&theme=dark&hide_border=true" alt="TobyCroft's GitHub Streak" /> 
+  <img src="https://images.weserv.nl/?url=github-readme-streak-stats.herokuapp.com/?user=tobycroft&theme=dark&hide_border=true" alt="TobyCroft's GitHub Streak" /> 
 </div>
 
 ---
