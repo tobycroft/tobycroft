@@ -18,7 +18,7 @@
 
 ## 🙋‍♂️ About Me
 
-* 🚀 **Full-Stack Developer** passionate about building scalable web applications and exploring gaming technologies.
+* 🚀 **Full Stack / Full-End Developer** passionate about building scalable web applications and exploring gaming technologies.
 * 💡 Love exploring new technologies and solving complex problems.
 * 🎯 Focused on **Go**, **PHP**, **.NET**, and modern **JavaScript / TypeScript** frameworks.
 * 🌱 Currently diving deep into cloud architecture, distributed systems, and game mechanics.
