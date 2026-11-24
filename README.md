@@ -44,4 +44,4 @@
 
 ### 🎮 Game Development
 ![](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
-![](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=godot&logoColor=black)
+![](https://img.shields.io/badge/Godot-FFFFFF?style=flat-square&logo=godot&logoColor=black)
